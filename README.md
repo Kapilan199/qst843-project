@@ -40,7 +40,3 @@ These insights can inform **better product design**, **customer engagement**, an
 - **Machine Learning:** Sentiment Analysis, Regression, Anomaly Detection  
 - **Data Source:** [Amazon Reviews 2023 Dataset](https://amazon-reviews-2023.github.io/main.html)
 
----
-
-## 📁 Project Structure
-
