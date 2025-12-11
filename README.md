@@ -1,5 +1,12 @@
 # 🛍️ Amazon Customer Review Analysis
 
+## Team member
+Kapilan Ramasamy - Data cleaning / Data preparation
+Jasmine Chen - EDA
+Yash Mukesh Kothari - EDA
+Evan Park - EDA & Machine Learning
+
+
 ## 📘 Problem Definition
 
 The goal of this project is to understand the **drivers of customer satisfaction** and **product success** by linking customer reviews with product metadata from the Amazon dataset.
