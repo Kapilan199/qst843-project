@@ -2,9 +2,9 @@
 
 ## Team member
 Kapilan Ramasamy - Data cleaning / Data preparation \
-Jasmine Chen - EDA \
+Jasmine (MingHua) Tsai - EDA \
 Yash Mukesh Kothari - EDA \
-Evan Park - EDA & Machine Learning
+Evan (Hyun Sung) Park - EDA & Machine Learning
 
 
 ## 📘 Problem Definition
