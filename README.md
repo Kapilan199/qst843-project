@@ -1,9 +1,9 @@
 # 🛍️ Amazon Customer Review Analysis
 
 ## Team member
-Kapilan Ramasamy - Data cleaning / Data preparation
-Jasmine Chen - EDA
-Yash Mukesh Kothari - EDA
+Kapilan Ramasamy - Data cleaning / Data preparation \
+Jasmine Chen - EDA \
+Yash Mukesh Kothari - EDA \
 Evan Park - EDA & Machine Learning
 
 
